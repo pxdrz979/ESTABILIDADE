@@ -1,6 +1,0 @@
-[submodule "Desempenho"]
-	path = Desempenho
-	url = https://github.com/pxdrz979/desempenho.git
-[submodule "sla"]
-	path = sla
-	url = https://github.com/pxdrz979/desempenho.git
