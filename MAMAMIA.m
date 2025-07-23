@@ -1,3 +1,1 @@
-fig = uifigure;
-s = uislider(fig);
-s.Value = 20;
+1+2
